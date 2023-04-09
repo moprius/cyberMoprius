@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=cyberMoprius
+X-KDE-PluginInfo-Author=Moprius
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=cyberMoprius
+X-KDE-PluginInfo-Version=.0.5
+X-KDE-PluginInfo-Website=
+
+[Wallpaper]
+defaultFileSuffix=.png
+defaultHeight=1440
+defaultWallpaperTheme=cyberMoprius
+defaultWidth=2560
